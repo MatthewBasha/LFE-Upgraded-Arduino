@@ -1,9 +1,9 @@
 #include <max6675.h>
 
 // Thermocouple pins
-const int thermoSO = 3;
+const int thermoSO = 19;
 const int thermoCS = 4;
-const int thermoSCK = 2;
+const int thermoSCK = 20;
 
 // SSR and speaker pins
 const int ssrPin = 5;
